@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Package') {
       steps {
-        build 'job1'
+        build 'job/final/job1'
       }
     }
 
