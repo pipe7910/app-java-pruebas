@@ -1,0 +1,3 @@
+sonar.projectName=prueba
+sonar.sources=src/
+sonar.tests=test
