@@ -2,3 +2,4 @@ sonar.projectKey=app-java-pruebas
 sonar.projectName=prueba
 sonar.sources=src/
 sonar.tests=test
+sonar.host.url=http://localhost:9000
